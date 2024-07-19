@@ -1,6 +1,6 @@
 ## Description 
 
-This script change wallpaper on linux with [@Pexels](https://api.pexels.com/v1)  
+This script change wallpaper on linux with [@Pexels](https://www.pexels.com/api)  
 
 ### Required:
 
